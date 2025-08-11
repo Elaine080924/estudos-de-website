@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Exemplo de site html</title>
+</head>
+<body>
+<h1> Sobre eu </h1>
+<p>Qualidade:</p>
+<p>- Bonita </p>
+<p>- Inteligente</p>
+<p>- Carinhosa</p>
+<p>- Carismática</p>
+<br>
+<p>Defeitos:</p>
+<p>- Teimosa</p>
+<p>- Consumista</p>
+<p>- Orgulhosa</p>
+</body>
+</html>
